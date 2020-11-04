@@ -1,1 +1,1 @@
-print("malacka")
+print("macska")
